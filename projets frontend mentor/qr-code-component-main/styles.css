@@ -1,0 +1,51 @@
+/* Backgound page */
+
+body
+{
+    background-color: hsl(212, 45%, 89%);
+    width: 600px; 
+    height: 800px;
+}
+
+div
+{
+/*     margin: 250px 400px 200px 400px ;
+ */}
+
+/* # section QR code */
+
+div div
+{
+    background-color:hsl(0, 0%, 100%);
+    width: 250px;
+    height: 300px;
+    padding: 10px, 30px 300px 10px;
+    display: flex;
+    flex-direction: column;
+    /* align-content: center; */
+    
+    
+}
+
+
+/* # section QR code */
+
+img
+{
+
+}
+
+/* # section slogan */
+
+h1
+{
+
+}
+
+
+/* # section texte */
+
+p
+{
+
+}
