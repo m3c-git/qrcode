@@ -3,8 +3,8 @@
 body
 {
     background-color: hsl(212, 45%, 89%);
-    width: 600px; 
-    height: 800px;
+ /*    width: 600px; 
+    height: 800px; */
 }
 
 div
@@ -14,16 +14,13 @@ div
 
 /* # section QR code */
 
-div div
+.card
 {
     background-color:hsl(0, 0%, 100%);
-    width: 250px;
-    height: 300px;
-    padding: 10px, 30px 300px 10px;
-    display: flex;
-    flex-direction: column;
-    /* align-content: center; */
-    
+    width: 310px;
+    height: 500px;
+    margin: 200px auto;
+    border-radius: 10px;
     
 }
 
@@ -32,14 +29,28 @@ div div
 
 img
 {
+    width: 290px;
+    height: 300px;
+    margin: 10px;
+    border-radius: 10px;
+    
 
 }
 
 /* # section slogan */
 
-h1
+h2
 {
-
+    margin: 10px;
+    padding-left: 20px;
+    padding-right: 10px;
+    color: hsl(218, 44%, 22%);
+    text-align: center;
+    font-family: 'Outfit' , sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    
 }
 
 
@@ -47,5 +58,12 @@ h1
 
 p
 {
-
+    color: hsl(220, 15%, 55%);
+    margin: 10px;
+    padding-left: 20px;
+    padding-right: 10px;
+    text-align: center;
+    font-family: 'Outfit' , sans-serif;
+    font-style: normal;
+    font-display: swap;
 }
