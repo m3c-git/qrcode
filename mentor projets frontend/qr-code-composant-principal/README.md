@@ -17,6 +17,8 @@ Il s'agit d'une solution au [défi du composant QR code sur Frontend Mentor] (ht
 ## Aperçu
 
 ### Capture d'écran
+![screenshot1](https://user-images.githubusercontent.com/122054879/222929469-aeb18934-e288-4aa2-93a3-5055ba728b35.png)
+![screenshot2](https://user-images.githubusercontent.com/122054879/222929470-c5ab0537-433f-439d-8965-546f7c53815b.png)
 
 ![](../screenshot1.jpg)
 
