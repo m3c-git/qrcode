@@ -18,7 +18,10 @@ Il s'agit d'une solution au [défi du composant QR code sur Frontend Mentor] (ht
 
 ### Capture d'écran
 
-![](./screenshot.jpg)
+![](../screenshot1.jpg)
+
+![](../screenshot2.jpg)
+
 
 ## Mon processus
 
